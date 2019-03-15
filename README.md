@@ -1,2 +1,2 @@
 # SimplePythonCodes
-Python codes i wrote in lab classes
+Python codes from lab classes
